@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+I don't use Github for personal projects anymore, for those, look at my [Gitlab](https://www.gitlab.com/raspimana)
+
+[![raspimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspimana&show_icons=true&theme=onedark)](#)
+
+
 <!--
+Yes, I keep this in. Shut up.
 **raspimana/raspimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
