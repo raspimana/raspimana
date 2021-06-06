@@ -4,7 +4,7 @@ I don't use Github for personal projects anymore, for those, look at my [Gitlab]
 
 [![raspimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspimana&show_icons=true&theme=onedark)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspimana&theme=onedark)](https://youtu.be/cSQTZoZPJzs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspimana&theme=onedark&layout=compact)](https://youtu.be/cSQTZoZPJzs)
 
 <!--
 Yes, I keep this in. Shut up.
