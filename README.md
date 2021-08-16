@@ -2,7 +2,7 @@
 
 I don't use Github for personal projects anymore, for those, look at my [GitTea](https://codeberg.org/raspimana)
 
-I used to use [GitLab](https://www.gitlab.com/raspimana), but now I use GitTea. Some of my older repositories will be there.
+I used to use [GitLab](https://www.gitlab.com/raspimana), but now I use GitTea. Some of my (at least public) older repositories will be there.
 
 [![raspimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspimana&show_icons=true&theme=onedark)](#)
 
