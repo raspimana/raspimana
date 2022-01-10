@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I don't use Github for personal projects anymore, for those, [GitLab.](https://www.gitlab.com/raspimana)
+I don't use Github for personal projects anymore, for those, see my [GitTea](https://codeberg.org/raspimana)
 
-I used to use [GitTea](https://codeberg.org/raspimana), but now I use GitLab. Some of my (at least public) older repositories will be there.
+I used to use [GitLab.](https://www.gitlab.com/raspimana), but now I use GitTea. Some of my (at least public) older repositories will be there.
 
 [![raspimana's GitHub stats](https://github-readme-stats.vercel.app/api?username=raspimana&show_icons=true&theme=onedark)](#)
 
